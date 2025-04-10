@@ -54,4 +54,5 @@ The goal of this project is to model and simulate the movement of an artificial 
 
 ## 📜 License
 
-This project is for academic and educational purposes only. No commercial use is permitted without prior written permission.
+This project is for academic and educational purposes only. 
+For licensing terms, see the [LICENSE](LICENSE) file.
